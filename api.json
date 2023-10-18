@@ -1,0 +1,25 @@
+{
+    "produtos": [
+        {
+            "imagePath": "https://static.paodeacucar.com/img/uploads/1/373/23760373.jpg",
+            "name": "leite",
+            "preco": 4,
+            "id" : 1
+
+        },
+        {
+            "imagePath": "https://images-americanas.b2w.io/produtos/7229477747/imagens/vinho-concha-y-toro-reservado-carmenere-750ml/7229477747_1_large.jpg",
+            "name": "vinho",
+            "preco": 40,
+            "id" : 2
+
+        },
+        {
+            "imagePath": "https://a-static.mlcdn.com.br/800x560/coca-coca-2l-coca-cola/sabrinaloureirolucena/13eca27ad21811ec91064201ac18506b/e07945c56be6b28392af5f341d652ce8.jpg",
+            "name": "coca-cola",
+            "preco": 3,
+            "id" : 3
+
+        }
+    ]
+}
